@@ -1,5 +1,4 @@
-# Harvard-CS50-AI
-Degrees
+# Degrees
 
 The latest version of Python you should use in this course is Python 3.12.
 Write a program that determines how many “degrees of separation” apart two actors are.
